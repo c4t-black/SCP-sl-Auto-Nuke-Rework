@@ -1,8 +1,8 @@
 Credits for the plugin:
 
-Cassies and functionalities: c4t-black
-Coding and testing: Admiro
-Base idea: I dunno (YT Channel)
+Cassies and functionalities: c4t-black /
+Coding and testing: Admiro /
+Base idea: I dunno (YT Channel) /
 
 If you want to see how the plugin works i made a video showing it!
 https://youtu.be/su_i-r6ZZrw
